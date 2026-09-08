@@ -2,7 +2,7 @@ Erik Nazarian
 # CIT384-HW2
 Repo for CIT384-HW2 all files + hosted page.
 
-Live site: https://nazarianerik.github.io/CIT384-HW2/
+Live site: [View on GitHub Pages](https://nazarianerik.github.io/CIT384-HW2/)
 
 Answer for 1b:
 
