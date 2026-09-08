@@ -12,4 +12,4 @@ contains the site's list of links to the other pages. Most of the content is ins
 Within it, that content is then split into different parts for each lesson topic using section. Those sections are "Sectioning elements," "Document outlines," and "WAI-ARIA Roles".
 All of them are built around their own h3 heading. Within the "Document outlines" section, an aside (role="complementary") is included. The effect of this, with the given css styling,
 places a blue box which seperates the W3C Warning from the rest of the paragraphs. a p element describes the warning and the blockquote following after it is the actual
-quote from the W3C, idented and italicized. Lastly, the <footer> element includes a link to CSUN as well as the address.
+quote from the W3C, idented and italicized. Lastly, the footer element includes a link to CSUN as well as the address.
